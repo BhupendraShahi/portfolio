@@ -168,7 +168,7 @@ const projects = () => {
                 img={project4}
                 summary="A modern portfolio web applicaion made using NextJs, TailwindCSS, Framer Motion. It is made fully responsive using tailwind. Interactivity is added using framer motion"
                 link="/"
-                github="/"
+                github="https://github.com/BhupendraShahi/portfolio"
                 type="Featured Project"
               />
             </div>
