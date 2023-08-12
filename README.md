@@ -1,6 +1,6 @@
 ## portfolio
 
-A modern portfolio web applicaion made using NextJs, TailwindCSS, Framer Motion. It is made fully responsive using tailwind. Interactivity is added using framer motion
+A modern portfolio web applicaion made using NextJs, TailwindCSS, Framer Motion. It is made fully responsive using tailwind. Interactivity is added using framer motion. Has feature like Darkmode.
 
 
 # Screenshots of Project 
