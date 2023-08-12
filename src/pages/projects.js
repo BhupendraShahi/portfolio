@@ -167,7 +167,7 @@ const projects = () => {
                 title="Portfolio Website"
                 img={project4}
                 summary="A modern portfolio web applicaion made using NextJs, TailwindCSS, Framer Motion. It is made fully responsive using tailwind. Interactivity is added using framer motion"
-                link="/"
+                link="https://portfolio-chi-bice-92.vercel.app"
                 github="https://github.com/BhupendraShahi/portfolio"
                 type="Featured Project"
               />
