@@ -7,7 +7,7 @@ import Link from "next/link";
 import React from "react";
 import project1 from "../../public/images/projects/micro-blogging.png";
 import project2 from "../../public/images/projects/sorting-visualizer.png";
-import project3 from "../../public/images/projects/car-dekho.png";
+import project3 from "../../public/images/projects/exercise-library.png";
 import project4 from "../../public/images/projects/portfolio.png";
 import project5 from "../../public/images/projects/interview-system.png";
 import project6 from "../../public/images/projects/ytclone.png";
@@ -154,10 +154,10 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Car Renting Frontend Template"
+                title="Exercise Library"
                 img={project3}
-                link="https://car-dekho-alpha.vercel.app/"
-                github="https://github.com/BhupendraShahi/car-dekho"
+                link="https://verdant-pie-9debfd.netlify.app/"
+                github="https://github.com/BhupendraShahi/exercise-library"
                 type="Featured Project"
               />
             </div>
