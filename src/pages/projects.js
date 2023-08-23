@@ -11,6 +11,7 @@ import project3 from "../../public/images/projects/exercise-library.png";
 import project4 from "../../public/images/projects/portfolio.png";
 import project5 from "../../public/images/projects/interview-system.png";
 import project6 from "../../public/images/projects/ytclone.png";
+import project7 from "../../public/images/projects/landingPage.png";
 import { motion } from "framer-motion";
 import TransitionEffect from "@/componets/TransitionEffect";
 
@@ -183,13 +184,42 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Youtube Clone"
+                title="MERN Youtube Clone"
                 img={project6}
                 link="https://bright-sorbet-4d9206.netlify.app/"
                 github="https://github.com/BhupendraShahi/youtube-clone"
                 type="Featured Project"
               />
             </div>
+
+            <div className="col-span-12">
+              <FeaturedProject
+                title="Landing Page Design Template"
+                img={project7}
+                summary="A modern landing page design made using React.js, and TailwindCSS. It is made fully responsive."
+                link="https://lambent-lolly-a26324.netlify.app/"
+                github="https://github.com/BhupendraShahi/nike-landing-page"
+                type="Featured Project"
+              />
+            </div>
+            {/* <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Interview Platform"
+                img={project8}
+                link="https://kaleidoscopic-souffle-8d5093.netlify.app/"
+                github="https://github.com/BhupendraShahi/Interview-System"
+                type="Featured Project"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Youtube Clone"
+                img={project9}
+                link="https://bright-sorbet-4d9206.netlify.app/"
+                github="https://github.com/BhupendraShahi/youtube-clone"
+                type="Featured Project"
+              />
+            </div> */}
           </div>
         </Layout>
       </main>
